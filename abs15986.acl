@@ -18,6 +18,7 @@
 # MyList
 (^|\.)pushbullet\.com$
 (^|\.)dmmapis\.com$
+(^|\.)dmm\.com$
 203.104.209.7
 
 #GFWList IP start
